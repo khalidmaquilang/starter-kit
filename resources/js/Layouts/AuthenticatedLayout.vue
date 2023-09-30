@@ -37,7 +37,7 @@ const onScroll = () => {
 
 <template>
     <div>
-        <div class="min-h-screen bg-gray-100 pl-4 pr-4">
+        <div class="min-h-screen bg-base-200 pl-4 pr-4">
             <nav
                 class="sticky nav-transition navbar bg-base-100 rounded-box shadow-lg"
                 :class="showNavbar ? 'top-4' : 'navbar--hidden top-0'"
