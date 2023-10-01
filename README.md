@@ -8,6 +8,7 @@ InertiaJs
 Breeze
 Vite
 DaisyUI
+Vue3
 ```
 
 ## How to Use
